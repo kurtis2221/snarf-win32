@@ -1,0 +1,90 @@
+
+
+                                 SNARF 2.03
+
+			    Distribution information
+
+
+        This is an arcade style game for the IBM PC family of compatible
+        computers.
+
+        The general idea of the game is this:  you have to run around through
+        various mazes (levels) picking up treasure (rings and crowns) while
+        avoiding the Snarfs.  You can shoot the Snarfs, but you only get points
+        for the treasure, not for the Snarfs.  Each time you're touched by a
+        Snarf, you're "tagged".  You start with a "tag count" of 50.  Each time
+        you're tagged the count is decremented.  If you get tagged when the
+        count is 0, the game is over.  You can get "healed" at a first-aid
+        station (your tag count is pumped back up to 50).  First-aid is only
+        available every two to four mazes.  The color of the top and bottom
+        bars on the display change with each tag. Snarf 2.0 allows the user
+	to create new levels for the game.
+
+
+	Program requirements:
+		IBM PC/XT/AT compatible.
+		EGA or VGA compatible display adapter (with a minimum of 128K
+			of RAM on the display adapter; early IBM EGA cards
+			will not work).  It will NOT work on CGA, MDA, or
+			Hercules display adapters.
+
+        SNARF 2.0 is being distributed as SHAREWARE.  You may use the program
+        for a period of 3 days, after which you must either register the
+        program with the author or stop using it.  To register the program,
+        send $15 in U.S. funds to:
+
+                        Everett Kaser
+                        Snarf
+                        35405 Spruce St
+                        Albany, OR  97321
+
+        Please specify the name to which you wish to have the program register-
+        ed.  This name will appear on the welcome screen of your registered
+        copy of the program.  The registered version may NOT be copied or
+        distributed, except by the author.  A copy of the latest shareware
+        version will be included that you may share with friends.
+
+        A registration form is included to help with the registration process.
+        To print the file REGISTER.DOC, ensure that your printer is turned on,
+        that it's on-line, and then type:
+
+                        PRINT REGISTER.DOC
+
+        Registered users may receive an update at any time by sending $5 to
+        the same address.  Registered users may write or call at any time to
+        find out the latest revision date or to receive other support.
+
+        I can be contacted via U.S. Mail at above address, via email on
+        Internet at
+
+                hplabs!hp-pcd!everett  or  everett%hpcvlx@hplabs.hp.com
+
+        or by phone at (503) 928-5259 (not before 8:30am or after 9:30pm,
+        Pacific Time, please).
+
+	The distribution files are:
+		SNARF200.EXE	the game program
+		SNARF200.DOC	the game documentation/manual
+		REGISTER.DOC	a registration form that can be printed
+		VENDOR.DOC	this file of general information
+
+        The game package, which MUST include the files SNARF200.EXE (the game),
+        SNARF200.DOC, and REGISTER.DOC (the registration form) may be
+        freely copied and distributed.  These three files may be re-archived
+        to better suit a given distribution system, but the files may not be
+        modified in any other way.  No distributor may charge more than $6 for
+        the distribution of this program, and that fee in no way reduces the
+        shareware registration fee owed to the author by the user.
+
+        The registered version of Snarf (which is NOT shareware and may NOT
+        be distributed except by the author) contains at LEAST 20 levels and
+        does NOT contain the "shareware reminder" screens at game end.
+
+        The entire contents of the four files SNARF200.EXE, SNARF200.DOC,
+        REGISTER.DOC, and VENDOR.DOC are:
+
+                Copyright 1990 Everett Kaser. All rights reserved.
+
+        They may not be modified in any way without the written consent of
+        the copyright holder, and they may only be copied and distributed
+        in accordance with the above paragraphs.
